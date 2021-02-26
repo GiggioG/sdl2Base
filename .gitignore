@@ -1,0 +1,8 @@
+obj/debug/*
+obj/release/*
+bin/debug/main.exe
+bin/debug/res
+bin/release/res
+bin/release/main.exe
+*.code-workspace
+SDL2-64
